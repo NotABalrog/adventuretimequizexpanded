@@ -1,0 +1,5 @@
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\bin\Debug\CCC.dll
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\bin\Debug\CCC.pdb
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\obj\Debug\CrossCuttingConcerns.csprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\obj\Debug\CCC.dll
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\obj\Debug\CCC.pdb

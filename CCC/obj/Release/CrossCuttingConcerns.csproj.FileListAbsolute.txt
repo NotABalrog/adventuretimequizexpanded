@@ -1,0 +1,4 @@
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\bin\Release\CCC.dll
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\bin\Release\CCC.pdb
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\obj\Release\CCC.dll
+C:\Users\brian\Desktop\ThinkfulClass\Final Project\CCC\obj\Release\CCC.pdb
